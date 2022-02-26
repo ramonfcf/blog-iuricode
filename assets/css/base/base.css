@@ -1,0 +1,12 @@
+@import url(../base/_reset.css);
+@import url(../base/_variaveis.css);
+
+body {
+    font-family: 'Lexend Deca', sans-serif;
+
+}
+
+/*
+font-family: 'Inter', sans-serif;
+font-family: 'Lexend Deca', sans-serif;
+*/
