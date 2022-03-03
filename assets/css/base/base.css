@@ -3,7 +3,19 @@
 
 body {
     font-family: 'Lexend Deca', sans-serif;
+    height: 100vh;
+    width: 100vw;
+    background: var(--branco-200);
 
+}
+
+main{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 /*

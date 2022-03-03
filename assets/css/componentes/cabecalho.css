@@ -2,12 +2,14 @@ header {
     width: 100%;
     height: 250px;
     background-image: linear-gradient(to right, #574AE8 , #3EA1DB);
+
+    margin-bottom: 70px;
 }
 
 .cabecalho {
     color: var(--branco);
     margin: auto;
-    width: 58%;         /*alterar depois*/
+    width: 70%;         /*alterar depois*/
     font-size: 24px;
     font-weight: 400;
    
@@ -25,23 +27,37 @@ header {
     margin-bottom: 2em;
 }
 
-.cabecalho-search-caixa {
+.cabecalho-search-container {
     background: rgba(255, 255, 255, 0.2);
     border-radius: 5px;
     height: 65px;
+    display: flex;
+    align-items: center;
     
 }
 
-.cabecalho-search-texto {
+input::placeholder{
+    color: var(--branco);
+    opacity: 0.5;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    padding-left: 8px;
+}
+
+.cabecalho-search-input {
     font-family: 'Inter', sans-serif;
     width: 100%;
     height: 65px;
     background: none;
     border: none;
-    align-items: center;    
-
+    align-items: center; 
+    outline: none;
+    margin-left: 15px;
+    font-size: 18px;
+    color: var(--branco);
 }
 
 .cabecalho-search-botao {
-    background-image: url(../../img/lupa.svg);
+    margin-left: 15px;
 }
