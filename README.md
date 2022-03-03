@@ -14,4 +14,6 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![Foto do site](https://imgbox.com/d5clUvWg)
+</br>
+
+![Foto do site](https://images2.imgbox.com/9b/74/d5clUvWg_o.jpg)
